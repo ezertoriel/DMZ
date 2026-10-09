@@ -17,8 +17,6 @@ En este laboratio se estara probando y documentando la seguridad de la zona desm
 <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/030c8b94-60ea-4d14-b9dc-9061954a91a0" />
 
 
-
-
 ---
 
 ## Dispositivos utilizados
@@ -54,4 +52,12 @@ En este laboratio se estara probando y documentando la seguridad de la zona desm
 ## Internet
 
 <img width="717" height="236" alt="image" src="https://github.com/user-attachments/assets/bbab908a-b069-41ab-94e6-8967af624b98" />
+
+---
+## VLAN 10 con Conexion a WebServer Cajas, pero sin conexion a WebServer Inventario.
+
+<img width="1038" height="697" alt="image" src="https://github.com/user-attachments/assets/f47a3283-a31a-4be0-b76e-6739a711a88b" />
+
+<img width="1021" height="753" alt="image" src="https://github.com/user-attachments/assets/c2749af1-493a-4c60-b521-4c5d68e65b1c" />
+
 
