@@ -13,6 +13,7 @@ En este laboratio se estara probando y documentando la seguridad de la zona desm
 
 ---
 ## Diagrama Lógico
+<img width="1024" height="537" alt="image" src="https://github.com/user-attachments/assets/2804584f-3836-4115-857a-89cb4807d395" />
 
 
 ---
