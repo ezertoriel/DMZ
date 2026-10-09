@@ -9,11 +9,14 @@ En este laboratio se estara probando y documentando la seguridad de la zona desm
 
 ---
 ## Topología 
-<img width="1085" height="569" alt="image" src="https://github.com/user-attachments/assets/109b9b57-f5ef-4691-8a63-1f598edb8bb9" />
+<img width="1108" height="536" alt="image" src="https://github.com/user-attachments/assets/fbd4eb2d-dda4-4142-adca-7e48810ba5a7" />
+
 
 ---
 ## Diagrama Lógico
-<img width="1024" height="537" alt="image" src="https://github.com/user-attachments/assets/2804584f-3836-4115-857a-89cb4807d395" />
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/030c8b94-60ea-4d14-b9dc-9061954a91a0" />
+
+
 
 
 ---
