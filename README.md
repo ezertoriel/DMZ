@@ -22,11 +22,10 @@ En este laboratio se estara probando y documentando la seguridad de la zona desm
 ---
 
 ## Dispositivos utilizados
-Router ISP
-Cloud
-Fortinet
-Switch
-PC
-Web Server CAJAS DMZ
-Web Server Inventarios DMZ
-DBServer
+1. Cloud
+2. Fortinet
+3. Switch (2)
+4. PC (2)
+5. Web Server CAJAS DMZ
+6. Web Server Inventarios DMZ
+7. DBServer
