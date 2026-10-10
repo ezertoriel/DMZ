@@ -6,7 +6,7 @@ https://youtu.be/7KGX9ZkxTvs
 ---
 
 ## Propósito del laboratorio 
-En este laboratio se estara probando y documentando la seguridad de la zona desmilitarizada (DMZ), a traves de los equipos de red y como firewall principal un equipo Fortigate. 
+En este laboratio se estara probando y documentando la seguridad de la zona desmilitarizada (DMZ), a traves de los equipos de red y como firewall principal un equipo Fortigate. El archivo de la topologia es el que se encuentre el repositorio con el nombre DMZ.zip
 
 ---
 ## Topología 
