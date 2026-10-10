@@ -49,6 +49,14 @@ En este laboratio se estara probando y documentando la seguridad de la zona desm
 
 ---
 
+## La RED de servidores es DMZ
+
+<img width="1359" height="680" alt="image" src="https://github.com/user-attachments/assets/5248522a-ee79-44cd-9ba9-f8b370bcb883" />
+
+
+
+---
+
 ## Internet
 
 <img width="717" height="236" alt="image" src="https://github.com/user-attachments/assets/bbab908a-b069-41ab-94e6-8967af624b98" />
