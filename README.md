@@ -1,6 +1,7 @@
 # Laboratorio DMZ
 
 ## Video Demostrativo
+https://youtu.be/7KGX9ZkxTvs
 
 ---
 
