@@ -58,6 +58,7 @@ En este laboratio se estara probando y documentando la seguridad de la zona desm
 
 <img width="1038" height="697" alt="image" src="https://github.com/user-attachments/assets/f47a3283-a31a-4be0-b76e-6739a711a88b" />
 
-<img width="1021" height="753" alt="image" src="https://github.com/user-attachments/assets/c2749af1-493a-4c60-b521-4c5d68e65b1c" />
+<img width="1357" height="643" alt="image" src="https://github.com/user-attachments/assets/b3c1fc95-3924-4da0-b628-5d30d74d610c" />
+
 
 
